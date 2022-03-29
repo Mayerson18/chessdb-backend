@@ -14,3 +14,5 @@ MVP Chess online database
 - Add db indexes
 - Add a robust filter (allow filtering by name, last name, uppercase, lowercase, date, elo, etc)
 - Add frontend project
+
+2022
